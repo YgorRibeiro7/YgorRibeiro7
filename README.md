@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente estou no terceiro semestre de ADS
+- 🔭 Atualmente estou no sexto semestre de ADS
 - 🌱 Estudo HTML,CSS,JAVASCRIPT
 - 💬 Email: ygorribeirodasilva0@gmail.com
 
