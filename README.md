@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Formado em Analise de Desenvov
+- 🔭 Formado em Analise de Desenvolvimento de Sistema (FATEC-SENAI)
 - 🌱 Especialidades HTML,CSS,PYTHON , BANCO DE DADOS SQL -SERVER, POWER-BI
 -    Atualmente sou QA, analista de dados
 - 💬 Email: ygorribeirodasilva0@gmail.com
